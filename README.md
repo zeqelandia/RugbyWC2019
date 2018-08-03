@@ -1,2 +1,2 @@
 # RugbyWC2019
-Interactive Rudgby World Cup 2019 fixture
+Interactive Rudgy World Cup 2019 fixture
