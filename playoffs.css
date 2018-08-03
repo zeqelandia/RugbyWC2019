@@ -1,0 +1,66 @@
+.box{
+	position: absolute;
+	width: 95%;
+	height: 40%;
+	margin-left: 2.5%;
+	border-radius: 7px;
+	background-color: black;
+}
+
+/*.quarterFinal{
+	position: absolute;
+	width: 95%;
+	height: 40%;
+	margin-left: 2.5%;
+	background-color: black;
+}*/
+
+.quarterfinal{
+	background-color: #808080;
+}
+
+.qfTop{
+	margin-top: 2.5%;
+}
+
+.qfBottom{
+	margin-top: 81.5%;
+}
+
+.semifinal{
+	margin-top: 42%;
+	background-color: #C0C0C0;
+}
+
+.thirdplace{
+	margin-top: 68%;
+	height: 35%;
+	background-color: #A34D16;
+}
+
+.final{
+	margin-top: 5%;
+	background-color: #FFC824;
+}
+
+/* Tabla Playoffs */
+
+.tblPlayoffs{
+	text-align: center;
+	width: 99%;
+	height: 99%;
+}
+
+.tdTitulo{
+	height: 30%;
+	font-family: 'verdana';
+	font-size: 27px;
+	color: white;
+}
+
+.tdInfo{
+	height: 20%;
+	font-family: 'verdana';
+	font-size: 13px;
+	color: #757575;
+}
