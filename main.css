@@ -11,18 +11,20 @@ html, body{
 	width: 20%;
 	height: 100%;
 	position: absolute;
-	border: 1px solid white;
 }
 
 .lblFecha{
 	color: #505050;
 }
 
+.lblMarcador{
+	vertical-align: middle;
+}
+
 /* IDs */
 
 #divMain{
 	width: 100%; height: 100%;
-	background-color: black;
 	background-image: url('background.jpg');
 	background-size: 100%;
 }
@@ -38,7 +40,6 @@ html, body{
 
 #divPlayoffs{
 	position: absolute;
-	background-color: blue;
 	width: 99%;
 	height: 57%;
 	margin-left: .5%;
@@ -60,4 +61,8 @@ html, body{
 
 #divQuarters2{
 	margin-left: 80%;
+}
+
+#lblVs{
+	margin-bottom: 30%;
 }

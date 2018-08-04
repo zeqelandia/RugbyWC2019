@@ -35,7 +35,7 @@
 .thirdplace{
 	margin-top: 68%;
 	height: 35%;
-	background-color: #A34D16;
+	background-color: #C7763C;
 }
 
 .final{
@@ -63,4 +63,35 @@
 	font-family: 'verdana';
 	font-size: 13px;
 	color: #757575;
+}
+
+.trGame{
+	height: 50%;
+}
+
+.tdGame{
+	width: 22%;
+	font-family: 'verdana';
+}
+
+.marcador{
+	background-color: white;
+	border: 1px black solid;
+	width: 85%;
+	height: 43%;
+	margin-left: 6%;	
+	margin-bottom: 30%;
+	font-size: 24px;
+}
+
+.tdVs{
+	width: 12%;
+	font-family: 'verdana';
+	font-size: 12px;
+	margin-bottom: 100%;
+}
+
+.bandera{
+	margin-top: 10%;
+	width: 100%;
 }
