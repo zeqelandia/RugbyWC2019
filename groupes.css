@@ -1,0 +1,73 @@
+h3{
+	text-align: center;
+	font-family: 'verdana';
+	font-size: 20px;
+	color: white;
+	margin-top: 0px;
+	margin-bottom: 2%;
+}
+
+.card{
+	width: 94%;
+	height: 94%;
+	margin-left: 3%;
+	margin-top: 3%;
+	overflow-y: scroll;
+	background-color: green;
+}
+
+.lblGEquipo{
+	font-family: 'verdana';
+	color: white;
+	font-size: 19px;
+}
+
+.match{
+	width: 95%;
+	height: 35%;
+	margin-left: 2.5%;
+	background-color: white;
+}
+
+.tituloMatch{
+	width: 100%;
+	height: 40%;
+	background-color: red;
+	text-align: center;
+	font-family: 'verdana';
+	font-size: 13px;
+}
+
+.matchInfo{
+	width: 100%;
+	height: 60%;
+	text-align: center;
+	background-color: rgb(100,0,0);
+}
+
+.lblFechaGroup{
+	color: rgba(0,0,0,.9);
+}
+
+.lblStadiumGroup{
+	color: rgba(0,0,0,.7);
+}
+
+.tblMatch{
+	width: 100%;
+}
+
+.banderaGroup{
+	width: 80%;
+}
+
+.marcadorGroup{
+	height: 100%;
+	background-color: white;
+	border: 1px black solid;
+	width: 85%;
+}
+
+.tdGroup{
+	height: 100%;
+}

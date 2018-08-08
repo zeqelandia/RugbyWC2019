@@ -11,6 +11,7 @@ html, body{
 	width: 20%;
 	height: 100%;
 	position: absolute;
+	border: 1px solid white;
 }
 
 .lblFecha{
@@ -69,4 +70,27 @@ html, body{
 
 #lblVs{
 	margin-bottom: 30%;
+}
+
+/* Groupes */
+
+#divGroup2{
+	margin-left: 20%;
+}
+
+#divGroupLogo{
+	margin-left: 40%;
+}
+
+#divGroup3{
+	margin-left: 60%;
+}
+
+#divGroup4{
+	margin-left: 80%;
+}
+
+
+#tblEquiposGroup1{
+	width: 100%;
 }
