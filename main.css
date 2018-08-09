@@ -90,7 +90,9 @@ html, body{
 	margin-left: 80%;
 }
 
+/* Group Cards */
 
-#tblEquiposGroup1{
-	width: 100%;
+
+#divGroup1Card{
+	background-color: rgb(87,196,229);
 }
