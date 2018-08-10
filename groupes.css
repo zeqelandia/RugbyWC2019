@@ -32,7 +32,6 @@ h3{
 .tituloMatch{
 	width: 100%;
 	height: 40%;
-	background-color: rgb(162,220,240);
 	text-align: center;
 	font-family: 'verdana';
 	font-size: 13px;
@@ -42,7 +41,6 @@ h3{
 	width: 100%;
 	height: 60%;
 	text-align: center;
-	background-color: rgb(207,237,247);
 }
 
 .lblFechaGroup{
@@ -87,6 +85,12 @@ h3{
 	padding-top: 7px;
 }
 
+.tblHead{
+	border-collapse: collapse;
+	width: 95%;
+	margin-left: 2.5%;
+}
+
 .lblG1Impar{
 	/*color: rgb(151,216,255);*/
 	color: white;
@@ -97,16 +101,77 @@ h3{
 	color: black;
 }
 
-.tblHead{
-	border-collapse: collapse;
-	width: 95%;
-	margin-left: 2.5%;
-}
-
 .trG1Impar{
 	background-color: rgb(0,88,139);
 }
 
 .trG1Par{
 	background-color: rgb(151,216,255);
+}
+
+.trG2Impar{
+	background-color: rgb(145,0,35);
+}
+
+.trG2Par{
+	background-color: rgb(249,141,156);
+}
+
+.lblG3Impar{
+	/*color: rgb(151,216,255);*/
+	color: white;
+}
+
+.lblG3Par{
+	/*color: rgb(0,88,139);*/
+	color: black;
+}
+
+.trG3Impar{
+	background-color: rgb(2,114,98);
+}
+
+.trG3Par{
+	background-color: rgb(154,233,214);
+}
+
+.trG4Impar{
+	background-color: rgb(63,16,94);
+}
+
+.trG4Par{
+	background-color: rgb(184,131,209);
+}
+
+/* Titulo y Match Grupos */
+.titulo1{
+	background-color: rgb(162,220,240);
+}
+
+.titulo2{
+	background-color: rgb(249,141,156);
+}
+
+.titulo3{
+	background-color: rgb(154,232,216);
+}
+
+.titulo4{
+	background-color: rgb(184,131,209);
+}
+
+.match1{
+	background-color: rgb(207,237,247);
+}
+
+.match2{
+	background-color: rgb(255,195,203);
+}
+
+.match3{
+	background-color: rgb(204,244,235);
+}
+
+.match4{
+	background-color: rgb(219,190,234);
 }
