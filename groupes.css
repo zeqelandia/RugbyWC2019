@@ -13,7 +13,7 @@ h3{
 	margin-left: 3%;
 	margin-top: 3%;
 	overflow-y: scroll;
-	background-color: green;
+	border-radius: 5px;
 }
 
 .lblGEquipo{

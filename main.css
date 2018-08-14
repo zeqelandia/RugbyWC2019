@@ -11,7 +11,6 @@ html, body{
 	width: 20%;
 	height: 100%;
 	position: absolute;
-	border: 1px solid white;
 }
 
 .lblFecha{
@@ -26,6 +25,11 @@ html, body{
 	color: white;
 }
 
+.logo{
+	width: 100%;
+	height: 100%;
+}
+
 /* IDs */
 
 #divMain{
@@ -36,7 +40,6 @@ html, body{
 
 #divGroupes{
 	position: absolute;
-	background-color: red;
 	width: 99%;
 	height: 40%;
 	margin-left: .5%;
@@ -107,4 +110,12 @@ html, body{
 
 #divGroup4Card{
 	background-color: rgb(137,52,181);
+}
+
+
+#divLogo{
+	width: 95%;
+	height: 85%;
+	margin-left: 2.5%;
+	margin-top: 2.5%;
 }
